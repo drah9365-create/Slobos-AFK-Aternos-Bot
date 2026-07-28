@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "Tôi là BotAFK",
-        "Đăng kí Híu Mê Game!",
-        "Tôi thích chơi Minecraft"
+        "Mình Bot AFK",
+        "Mọi Người Đăng kí Híu Mê Game ! giúp Bot với",
+        "Bot thích chơi Minecraft"
+        "Bot thích mọi người"
       ]
     },
     "chat-log": true,
